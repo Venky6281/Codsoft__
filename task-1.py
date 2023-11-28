@@ -38,4 +38,4 @@ while True:
         break
     else:
         print("Invalid choice. Please select a valid option.")
-print("Goodbye!")         
+print("Exit!")         
